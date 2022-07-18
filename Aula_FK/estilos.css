@@ -1,0 +1,21 @@
+label,
+input {
+    display: block;
+    margin-top: 10px;
+}
+
+form {
+    border: 1px black solid;
+    border-radius: 20px;
+    width: 400px;
+    padding: 25px;
+    background-color: lightgrey;
+    font-size: 18px;
+}
+
+#enviar {
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    font-family: Arial, "Times New Roman";
+}
